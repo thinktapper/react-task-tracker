@@ -5,6 +5,18 @@
       "text": "Doctors Appointment",
       "day": "Feb 5th at 2:30pm",
       "reminder": true
+    },
+    {
+      "text": "F̾a̾r̾t̾ Push",
+      "day": "Everyday",
+      "reminder": false,
+      "id": 2
+    },
+    {
+      "text": "Celebrate 🥳",
+      "day": "America's Bday",
+      "reminder": true,
+      "id": 3
     }
   ]
 }
